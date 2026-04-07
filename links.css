@@ -1,0 +1,19 @@
+.links{
+    border-radius: 3px;
+    padding: 4px;
+    background-color:rgb(224, 202, 172);
+    display: inline-block;
+}
+a:hover{
+    background-color: beige;
+    border: 1.5px solid blue;
+    transition: 0.2s;
+    transform: scale(1.2);
+    background-color:rgb(232, 196, 146);
+}
+img:hover{
+    box-shadow: 4px 4px 10px black;
+    transition: 0.2s;
+    transform: scale(1.2);
+    border: 2px solid red;
+}
